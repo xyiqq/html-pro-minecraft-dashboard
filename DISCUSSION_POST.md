@@ -52,7 +52,7 @@ lovelace/config/save
 
 仓库地址：
 
-<!-- REPO_URL_PLACEHOLDER -->
+https://github.com/xyiqq/html-pro-minecraft-dashboard
 
 ## 实体映射示例
 

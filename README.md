@@ -40,6 +40,15 @@ tools/
 
 storage/
   lovelace.minecraft-html-pro-dashboard.json
+
+docs/handoff/
+  README.md
+  HANDOFF.md
+  HTML_PRO_DASHBOARD_SUMMARY.md
+  CUSTOM_CARD_DASHBOARD_SUMMARY.md
+  NEXT_OPTIMIZATION_PLAN.md
+
+html-pro-minecraft-dashboard-share.zip
 ```
 
 ## 前置条件
@@ -170,6 +179,16 @@ templates/html-pro-dashboard.generated.yaml
 ## 图片素材
 
 模板默认使用 `assets/` 下的 JPG。你可以直接替换图片，只要保持文件名不变即可。
+
+## 接手文档
+
+`docs/handoff/` 里保存了给后续大模型或开发者使用的公开脱敏版接手资料，包含完整交接文档、html-pro 版本总结、custom-card 版本总结和下一阶段优化计划。
+
+如果只想一次性下载全部资料，可以直接下载仓库根目录的：
+
+```text
+html-pro-minecraft-dashboard-share.zip
+```
 
 ## 注意事项
 

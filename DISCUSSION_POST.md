@@ -49,6 +49,8 @@ lovelace/config/save
 - `storage/lovelace.minecraft-html-pro-dashboard.json`：HA storage 格式示例。
 - `assets/`：示例图片素材。
 - `screenshots/`：效果截图。
+- `docs/handoff/`：给后续大模型或开发者接手的脱敏文档。
+- `html-pro-minecraft-dashboard-share.zip`：包含上述文件的完整压缩包。
 
 仓库地址：
 
